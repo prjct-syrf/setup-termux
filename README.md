@@ -5,4 +5,4 @@ How to installation?
 git clone https://github.com/prjct-syrf/setup-termux.git
 
 cd setup-termux
-./setup-termux
+bash setup-termux.sh
